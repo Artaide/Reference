@@ -1,0 +1,7 @@
+4 2
+lemmings1 l 86
+lemmings2 l 90
+hares n 26
+moose s 12
+bears j 12
+owls h 6
